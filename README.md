@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Frontend</p>
+<h3 align="left">Frontend</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">Backend</p>
+<h3 align="left">Backend</h3>
 
 ###
 
@@ -62,6 +62,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
 ###
